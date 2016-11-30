@@ -10,7 +10,7 @@ MainWindow::MainWindow(QWidget *parent) :
     QLabel *label=new QLabel(this);
     label->setText("你好");
     label->show();
-
+  //测试qt
 }
 
 MainWindow::~MainWindow()
